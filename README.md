@@ -1,10 +1,10 @@
-# Jarvis Desktop Voice Assistant🔥
+# EduGenie Desktop Voice Assistant🔥
 
 <img src="https://giffiles.alphacoders.com/212/212508.gif" alt="">
 
 **Have you ever wondered how cool it would be to have your own assistant? Imagine how easier it would be doing Wikipedia searches without opening web browsers, and performing many other daily tasks like playing music with the help of a single voice command, opening different browsers in just a voice command.**
 
-**This project is simple desktop voice assistant built with python named as “Jarvis Desktop Voice Assistant”. This project is fully completed and error free. It was compiled in VS Code Editor.**
+**This project is simple desktop voice assistant built with python named as “EduGenie Desktop Voice Assistant”. This project is fully completed and error free. It was compiled in VS Code Editor.**
 
 **🔸 Let's be honest, it's not as intelligent as in the movie, but it can do a lot of cool things and automate your daily tasks you do on your personal computers/laptops.**
 
@@ -61,7 +61,7 @@ Python 3.6+
 
 4. **Install Requirements**
 
-   - Install all the requirements given in **[requirements.txt](https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/requirements.txt)** by running the command `pip install -r requirements.txt`
+   - Install all the requirements given in python libraries by running the command `pip install -r requirements.txt`
 
 5. **Install PyAudio**  
    - Follow the instructions given **[here](https://stackoverflow.com/questions/52283840/i-cant-install-pyaudio-on-windows-how-to-solve-error-microsoft-visual-c-14)**
@@ -85,11 +85,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📌Author
 
-👤 **Kishan Kumar Rai**
+👤 **Saravana Vel**
 
-- Twitter: [@kishan_rajput23](https://twitter.com/kishan_rajput23)
-- Github: [@kishanrajput23](https://github.com/kishanrajput23)
-- LinkedIn: [@kishan-kumar-rai](https://linkedin.com/in/kishan-kumar-rai-23112000)
+- Github:[@Saravana Vel](https://github.com/sachinsv1457)
 
 ## 📌Show your support
 
